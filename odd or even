@@ -8,7 +8,3 @@ int main() {
     else printf("%d is odd.", num);
     return 0;
 }
-
-output:
-Enter an integer: 4
-4 is even.
