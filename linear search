@@ -24,10 +24,3 @@ int main ()
         printf("\nItem not found\n");   
     }  
 }
-
-
-output:
-Enter Item which is to be searched
-10
-
-Item found at location 1
