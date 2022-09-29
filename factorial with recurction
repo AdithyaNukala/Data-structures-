@@ -14,7 +14,3 @@ long int multiplyNumbers(int n) {
     else
         return 1;
 }
-
-output:
-Enter a positive integer: 5
-Factorial of 5 = 120
